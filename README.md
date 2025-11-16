@@ -71,8 +71,7 @@ project-folder/
 
 📥 File del progetto
 
-Scarica il file Excel completo:
-/dashboard/Cleaned_Data_&_Dashboard_coffeeOrdersData.xlsx
+Scarica il file Excel completo: [Cleaned_Data_&_Dashboard_coffeeOrdersData.xlsx](dashboard/Cleaned_Data_&_Dashboard_coffeeOrdersData.xlsx)
 
 📌 Cosa dimostra questo progetto
 
